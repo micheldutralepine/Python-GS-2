@@ -55,3 +55,8 @@ Instruções de Uso:
 
 Demais informações:
   O banco de dados é armazenado no arquivo colaboracoes_db.json.
+
+2. 
+
+Link para o video apresentação:
+https://youtu.be/utRqGQxq0XM
